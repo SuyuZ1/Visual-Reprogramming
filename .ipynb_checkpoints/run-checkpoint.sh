@@ -1,0 +1,1 @@
+python experiments/cnn/ilm_update_multi.py --network resnet18 --dataset dtd
